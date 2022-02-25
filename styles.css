@@ -45,7 +45,7 @@ html {
 }
 
 body {
-  background-color: rgb(241, 191, 241);
+  background-color: rgb(107 234 156 / 35%);
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
